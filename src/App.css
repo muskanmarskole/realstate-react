@@ -131,24 +131,24 @@ nav.nav {
   max-width: 50%;
 }
 
-h2 {
+.content-welcome h2 {
   font-size: 28px;
-  color: #a34444;
+  color: #333;
 }
 
-h2 strong {
+.content-welcome h2 strong {
   color: #f8afa6;
 }
 
-h3 {
+.content-welcome h3 {
   font-size: 20px;
   font-weight: bold;
-  color: #fff;
+  color: #000;
 }
 
-p {
+.content-welcome p {
   font-size: 16px;
-  color: #fff;
+  color: #000;
   line-height: 1.5;
 }
 
